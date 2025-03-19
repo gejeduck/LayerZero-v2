@@ -57,7 +57,7 @@ dvn_fee_lib_0 = "0x3000a"
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
 rev = "6f83bc6d02207298b2dee91133d75538789bf582"
-subdir = "aptos-framework"
+subdir = "aptos-move/framework/aptos-framework/"
 
 [dependencies]
 endpoint_v2_common = { local = "../endpoint_v2_common" }
