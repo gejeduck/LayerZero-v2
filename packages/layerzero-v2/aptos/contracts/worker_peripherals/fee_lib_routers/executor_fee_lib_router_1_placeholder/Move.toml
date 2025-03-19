@@ -11,6 +11,6 @@ executor_fee_lib_router_1 = "0x93270987"
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
 rev = "6f83bc6d02207298b2dee91133d75538789bf582"
-subdir = "aptos-move/framework/aptos-framework/"
+subdir = "aptos-move/framework/aptos-framework"
 
 [dev-dependencies]

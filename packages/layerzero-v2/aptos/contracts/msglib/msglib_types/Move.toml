@@ -20,7 +20,7 @@ layerzero_treasury_admin = "0x1894312499"
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
 rev = "6f83bc6d02207298b2dee91133d75538789bf582"
-subdir = "aptos-move/framework/aptos-framework/"
+subdir = "aptos-move/framework/aptos-framework"
 
 [dependencies]
 endpoint_v2_common = { local = "../../endpoint_v2_common" }
