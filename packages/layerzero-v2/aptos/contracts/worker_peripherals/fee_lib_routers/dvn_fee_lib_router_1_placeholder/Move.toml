@@ -10,7 +10,7 @@ dvn_fee_lib_router_1 = "0x3294873"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
-rev = "mainnet"
+rev = "6f83bc6d02207298b2dee91133d75538789bf582"
 subdir = "aptos-framework"
 
 [dev-dependencies]

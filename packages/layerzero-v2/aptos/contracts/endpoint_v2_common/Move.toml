@@ -17,5 +17,5 @@ layerzero_treasury_admin = "0x123456231423"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
-rev = "mainnet"
+rev = "6f83bc6d02207298b2dee91133d75538789bf582"
 subdir = "aptos-framework"
